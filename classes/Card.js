@@ -22,7 +22,7 @@ export class Card {
 
         const backFace = document.createElement('img');
         backFace.classList.add('back-face');
-        backFace.src = '../img/js-badge.svg';
+        backFace.src = 'img/js-badge.svg';
         backFace.alt = 'Memory Card';
 
         card.append(frontFace);
