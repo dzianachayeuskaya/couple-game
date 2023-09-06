@@ -1,7 +1,6 @@
 {
-  "name": "20_testing",
+  "name": "couple-game",
   "author": "",
-  "description": "Online payment form",
   "private": true,
   "scripts": {
     "lint": "eslint ./",
@@ -21,5 +20,5 @@
     "prettier": "^3.0.0"
   },
   "version": "1.0.0",
-  "main": ".eslintrc.js"
+  "main": "index.html"
 }
