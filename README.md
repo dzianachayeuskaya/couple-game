@@ -1,5 +1,5 @@
 # Игра Найди пары
 
-[Demo](https://dzianachayeuskaya.github.io/couple-game)
+[Demo](https://dzianachayeuskaya.github.io/couple-game).
 
-В проекте также предусмотрено тестирование(e-2-e при помощи cypress)
+The project also provides testing (e-2-e using cypress).
